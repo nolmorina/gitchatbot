@@ -14,7 +14,7 @@ PINECONE_REGION     = os.getenv("PINECONE_REGION", "us-east-1")
 
 # Model settings
 EMBEDDING_MODEL     = "text-embedding-3-small"
-LLM_MODEL           = "gpt-4o-mini"
+LLM_MODEL           = "gpt-5-mini"
 
 # Retrieval settings
 TOP_K               = 6
