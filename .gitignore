@@ -1,0 +1,28 @@
+# Environment & secrets
+.env
+*.env
+
+# Ingested repo data (contains internal API source code)
+data/CTI-API_graph.json
+data/Service-Portal-API_graph.json
+data/session.json
+data/
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+*.swp
