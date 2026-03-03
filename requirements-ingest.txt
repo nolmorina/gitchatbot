@@ -1,5 +1,0 @@
-# Install this file locally before running ingest.py
-# pip install -r requirements-ingest.txt
--r requirements.txt
-tree-sitter>=0.21.0,<0.22.0
-tree-sitter-languages>=1.10.0
